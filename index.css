@@ -1,0 +1,23 @@
+*{ 
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background: radial-gradient( rgba(0, 0, 0, 0.301) 0.1%, rgb(54, 94, 175) 99.8% );;
+    height: 30vh;
+    display: flex;
+    
+}
+body, ul, li{
+    align-content: center;
+}
+#films li {
+    margin-bottom: 10px;
+    cursor: pointer;
+  }
+  
+  #films li:hover {
+    color: #fff;
+    background-color: #0d325a;
+  }
