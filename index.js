@@ -42,7 +42,8 @@ const availableTickets = document.querySelector('#available-tickets');
 let numTicketsAvailable = 27; 
 // Initialize number of tickets available
 
-buyButton.addEventListener('click', () => {
+
+buyButton.addEventListener('click', function() {
   if (numTicketsAvailable > 0) {
     numTicketsAvailable--;
     availableTickets.textContent = numTicketsAvailable;

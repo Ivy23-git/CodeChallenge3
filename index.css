@@ -10,7 +10,7 @@ body{
     
 }
 body, ul, li{
-    align-content: center;
+    align-content: left;
 }
 #films li {
     margin-bottom: 10px;

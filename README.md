@@ -35,6 +35,7 @@ This is a simple movie theatre website where you can buy tickets and access movi
 >Clone the repository.
 >Install the dependencies.
 >Start the server: json-server --watch db.json
+>Run with Liveserver
 *****
 ## Live Link
 Or you can access the web application directly via this [LINK.](link.com/)
