@@ -82,7 +82,7 @@ fetch('http://localhost:3000/films')
         button.textContent = 'Sold Out';
         button.disabled = true; // disable the button
       } else {
-        button.textContent = 'Book Now';
+        button.textContent = 'Buy Ticket';
         button.addEventListener('click', event => {
           event.preventDefault(); // prevent the default link behavior
           if (movie.tickets_sold >= movie.capacity) {
