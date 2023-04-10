@@ -6,18 +6,12 @@
 This is a simple movie theatre website where you can buy tickets and access movies available. Upon access of the movie you can tell the show time how long it will last and available tickets.
 ******
 
-## SCREENSHOTS
-- link 1
-- link 2
-
-
 ********
 ## SetUp Instruction
 ### Requirements
-* [Lang](lang Url)
-* [Framework](Framework URL)
+* Use the db.json file to fetch data 
 * Text editor eg [Visual Studio Code](https://code.visualstudio.com/download)
-* [Testing Platform](Platform URL)
+
 
 
 ### Getting Files
@@ -41,10 +35,10 @@ This is a simple movie theatre website where you can buy tickets and access movi
 Or you can access the web application directly via this [LINK.](link.com/)
 *****
 ## Dependencies
-- Package Name
-- Package Name
-- Package Name
-- Package Name
+- Canvas
+- Youtube 
+- W3schools
+
 *****
 ## Technologies Used
 1. HTML
